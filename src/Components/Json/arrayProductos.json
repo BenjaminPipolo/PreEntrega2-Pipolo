@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera 1",
+    "precio": 20.99,
+    "imagen": "../../../public/images/remera-1.jpg",
+    "descripcion": "Una cómoda remera de algodón.",
+    "stock": 10,
+    "categoria": "remeras"
+  },
+  {
+    "id": 2,
+    "nombre": "Remera 2",
+    "precio": 25.99,
+    "imagen": "../../../public/images/remera-2.jpg",
+    "descripcion": "Diseño moderno y elegante.",
+    "stock": 15,
+    "categoria": "remeras"
+  },
+  {
+    "id": 3,
+    "nombre": "Remera 3",
+    "precio": 18.99,
+    "imagen": "../../../public/images/remera-3.jpg",
+    "descripcion": "Ideal para un look casual.",
+    "stock": 8,
+    "categoria": "remeras"
+  },
+  {
+    "id": 4,
+    "nombre": "Pantalón 1",
+    "precio": 39.99,
+    "imagen": "../../../public/images/pantalon-3.jpg",
+    "descripcion": "Pantalón deportivo cómodo.",
+    "stock": 12,
+    "categoria": "pantalones"
+  },
+  {
+    "id": 5,
+    "nombre": "Pantalón 2",
+    "precio": 45.99,
+    "imagen": "../../../public/images/pantalon-2.jpg",
+    "descripcion": "Pantalón de tela para ocasiones formales.",
+    "stock": 18,
+    "categoria": "pantalones"
+  },
+  {
+    "id": 6,
+    "nombre": "Pantalón 3",
+    "precio": 32.99,
+    "imagen": "../../../public/images/pantalon-1.jpg",
+    "descripcion": "Pantalón jean clasico.",
+    "stock": 5,
+    "categoria": "pantalones"
+  },
+  {
+    "id": 7,
+    "nombre": "Buzo 1",
+    "precio": 49.99,
+    "imagen": "../../../public/images/buzo-2.jpg",
+    "descripcion": "Buzo estilo polo.",
+    "stock": 20,
+    "categoria": "buzos"
+  },
+  {
+    "id": 8,
+    "nombre": "Buzo 2",
+    "precio": 55.99,
+    "imagen": "../../../public/images/buzo-1.jpg",
+    "descripcion": "Buzo cálido para el invierno.",
+    "stock": 10,
+    "categoria": "buzos"
+  },
+  {
+    "id": 9,
+    "nombre": "Camisa 1",
+    "precio": 29.99,
+    "imagen": "../../../public/images/camisa-1.jpg",
+    "descripcion": "Camisa elegante para ocasiones especiales.",
+    "stock": 14,
+    "categoria": "camisas"
+  },
+  {
+    "id": 10,
+    "nombre": "Camisa 2",
+    "precio": 34.99,
+    "imagen": "../../../public/images/camisa-2.jpg",
+    "descripcion": "Camisa a cuadros de estilo casual.",
+    "stock": 8,
+    "categoria": "camisas"
+  }
+]
